@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "projects\\src"
+		}
+	],
+	"settings": {
+		"debug.node.showUseWslIsDeprecatedWarning": false
+	}
+}

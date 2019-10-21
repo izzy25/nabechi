@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "Nabechi",
+  "launch_path": "/index.php",
+  "description": Apps for your reading manga and manhwa.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Nabechi",
+      "description": "Apps for your reading manga and manhwa."
+    }
+  }
+}
